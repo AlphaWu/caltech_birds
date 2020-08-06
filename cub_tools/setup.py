@@ -18,5 +18,5 @@ setup(name='cub_tools',
             'torch-lucent',
             'pytorchcv',
             'scikit-image',
-            'Pillow']
+            'Pillow'],
       zip_safe=False)
